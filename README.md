@@ -1,18 +1,18 @@
 
-<h3 align="center">Co Founder | Data Science Student | Innovator in AI, Robotics & Privacy-first Technology</h3>
+<h3 align="center">Co-Founder | Data Science Student | Innovator in AI, Robotics & Privacy-first Technology</h3>
 
 ---
 
 ### Intro
 I’m a **Tech Entrepreneur** and **Data Scientist** driven by a mission to create **human-centered, privacy-first innovations**.  
-As the **Founder & CEO of Anon**, I lead a team focused on building secure, intelligent, and ethical technologies that empower people and protect digital freedom.  
+As the **Co=Founder of Anon**, I lead a team focused on building secure, intelligent, and ethical technologies that empower people and protect digital freedom.  
 
 With a background in **AI, Data Science, and Automation**, I merge technical expertise with strategic vision — creating solutions that are not only advanced but also responsible.
 
 ---
 
 ### Professional Journey
-- **Founder & CEO — Anon Dev Lab**  
+- **Co-Founder — Anon**  
   Leading innovation in AI, privacy, and automation systems.  
 - **Data Science Intern — Google**  
   Worked on scalable data intelligence and predictive analytics.
