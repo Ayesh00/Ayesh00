@@ -4,10 +4,7 @@
 ---
 
 ### Intro
-I’m a **Tech Entrepreneur** and **Data Scientist** driven by a mission to create **human-centered, privacy-first innovations**.  
-As the **Co=Founder of Anon**, I lead a team focused on building secure, intelligent, and ethical technologies that empower people and protect digital freedom.  
-
-With a background in **AI, Data Science, and Automation**, I merge technical expertise with strategic vision — creating solutions that are not only advanced but also responsible.
+I’m a Data Science student building intelligence from data and imagination. I explore the future through machine learning, AI, and predictive systems. Turning raw information into smart solutions is my passion. I code with purpose and innovate with vision.
 
 ---
 
